@@ -1,18 +1,38 @@
 ## Hi there 👋
 
-<!--
-**TejasSathe010/TejasSathe010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tejas Sathe 👋  
 
-Here are some ideas to get you started:
+💻 **Software Developer | Full-Stack Engineer | AI Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Passionate about building high-performance applications, AI/ML models, and scalable distributed systems.  
+
+---
+
+### 🌱 **Currently Learning**  
+- **LLM Fine-Tuning & Gen AI** with **PyTorch, TensorFlow, and Transformers**.  
+- Advanced **cloud-native architectures** on **AWS, Azure, and GCP**.  
+- **High-performance distributed systems** and **APM monitoring** using **Grafana, PM2, and Nginx**.  
+
+### 👯 **Looking to Collaborate On**  
+- Open-source projects related to **AI/ML, distributed systems, or web development**.  
+- **Performance optimization & scalability improvements** in complex applications.  
+- **Frontend and backend development** challenges in **React, Next.js, Node.js, and C#/.NET**.  
+
+### 💬 **Ask Me About**  
+- **Full-stack development** with **React, Next.js, Node.js, and .NET**.  
+- **Cloud & DevOps** with **Docker, Kubernetes, CI/CD, and AWS/Azure/GCP**.  
+- **AI/ML & Neural Networks**, including **Tensorflow, LangChain and Gen AI models**.  
+- **Software architecture & best practices** for scalable applications.  
+
+### 📫 **How to Reach Me**  
+- **GitHub:** [TejasSathe010](https://github.com/TejasSathe010)  
+- **LinkedIn:** [linkedin.com/in/tejassathe](https://www.linkedin.com/in/tejassathe)  
+- **Portfolio:** [https://tejas-sathe-portfolio.netlify.app/](https://tejas-sathe-portfolio.netlify.app/) 
+
+---
+
+✨ Always exploring new tech and sharing knowledge! Let's connect and build something awesome. 🚀  
+
 -->
 
 
