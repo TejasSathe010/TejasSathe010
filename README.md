@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Tejas Sathe 👋  
 
 💻 **Software Developer | Full-Stack Engineer | AI Enthusiast**  
