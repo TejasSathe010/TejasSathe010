@@ -24,7 +24,7 @@
 
 ### 📫 **How to Reach Me**  
 - **GitHub:** [TejasSathe010](https://github.com/TejasSathe010)  
-- **LinkedIn:** [linkedin.com/in/tejassathe](https://www.linkedin.com/in/tejassathe)  
+- **LinkedIn:** [linkedin.com/in/tejassathe](https://linkedin.com/in/tejas-sathe010/)
 - **Portfolio:** [https://tejas-sathe-portfolio.netlify.app/](https://tejas-sathe-portfolio.netlify.app/) 
 
 ---
