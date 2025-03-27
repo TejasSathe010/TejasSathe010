@@ -31,8 +31,6 @@
 
 ✨ Always exploring new tech and sharing knowledge! Let's connect and build something awesome. 🚀  
 
--->
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-sathe010) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejassathe010@gmail.com) 
